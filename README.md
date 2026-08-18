@@ -146,8 +146,5 @@ Through this project, we gained practical experience in:
 
 Developed by **Arfa Noorain** and Rahemath Batool.
 
-## License
-
-This project is licensed under the MIT License.
 
 ⭐ If you like this project, consider giving it a **Star** on GitHub!
