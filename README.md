@@ -121,6 +121,15 @@ http://localhost:3000
 
 🔗 Try it yourself: https://neuroclashhumanvsai.netlify.app/
 
+## 📖 About This Project
+
+This is my **first-ever software project** and an important milestone in my learning journey.
+
+I built **NeuroClash** using **React, JavaScript, HTML, and CSS** while exploring modern web development. Most of the implementation was generated with the help of AI, while I focused on understanding the code, fixing errors, debugging, testing, and deploying the application.
+
+This project gave me hands-on experience with React project structure, Git and GitHub, debugging, UI development, and deploying web applications. It marks the beginning of my journey as a software developer, and I look forward to building future projects with increasing independence.
+
+
 ## Learning Outcomes
 
 Through this project, we gained practical experience in:
